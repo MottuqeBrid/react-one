@@ -1,0 +1,8 @@
+{
+    "eslint.nodeEnv": "",
+    "eslint.options": {},
+    "emmet.preferences": {},
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
